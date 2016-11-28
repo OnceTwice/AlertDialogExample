@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lists">
+        <item>IceCreamSandwich</item>
+        <item>Kikat</item>
+        <item>JellyBean</item>
+        <item>LolliPop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+    </string-array>
+</resources>
